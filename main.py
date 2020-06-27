@@ -1,1 +1,2 @@
-print('Manvika')
+name= input ('whats ur name?')
+print(name)
